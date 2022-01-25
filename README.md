@@ -11,3 +11,5 @@ Of the more important information that is used in the charts, CIS-R score  is an
 All the data and files that I used were uploaded to github. In the file 'adult_psychiatric_study_ch2_web.pdf', you can find the publication with the original charts, and in the '(original data) apms-2014-ch-02-tabs.xls' file, the raw data. 
 
 Initially, I tried to work with the original data, but I had a lot of problems. I searched the Internet for a solution, but the information I found suggested that it is best to correct the data in the original file. That is why I created new files to which I copied the data necessary to recreate the selected charts, and introduced the necessary modifications. I tried to do it only to the necessary (minimal) extent. I saved the files with the copied data to csv. You can also find them in github. These are: '2.1.csv', '2.2.csv', '2.2a.csv', '2.3.csv' and '2.3a.csv'.
+
+I wrote the code in Google Colab. You can find it in the file: 'homework_2_21_01_2022_zad.ipynb'.
